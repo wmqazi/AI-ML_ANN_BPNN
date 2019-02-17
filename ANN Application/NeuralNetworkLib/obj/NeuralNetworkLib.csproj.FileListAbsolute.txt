@@ -1,0 +1,27 @@
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\EnumeratedObjects.dll
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\ProgressReporter.dll
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\ProgressReporter.pdb
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\bin\Debug\EnumeratedObjects.pdb
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\obj\Debug\ResolveAssemblyReference.cache
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+G:\Ph. D. Code Base\NeuralNetworkApplication\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\NeuralNetworkApplication With MCC Lib - float type - With Momentum - Save Option\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.pdb
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+D:\Ph. D. Code Base 2\Neural Network Development Zone\ANN Application (with MCC-Momentum) - Input Type Int - Weights Management\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb

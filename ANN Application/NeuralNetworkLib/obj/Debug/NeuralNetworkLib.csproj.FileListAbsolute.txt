@@ -1,0 +1,9 @@
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.dll
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\NeuralNetworkLib.pdb
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.dll
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.dll
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\BinaryFileIOManager.pdb
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\bin\Debug\MatthewsCorrelationCoefficientLib.pdb
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.dll
+C:\Wajahat\Bioinformatics\Neural Network Development Zone\ANN Application\NeuralNetworkLib\obj\Debug\NeuralNetworkLib.pdb

@@ -1,0 +1,11 @@
+bin\Debug\NeuralNetworkLib.dll
+bin\Debug\NeuralNetworkLib.pdb
+bin\Debug\ProgressReporter.pdb
+bin\Debug\EnumeratedObjects.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NeuralNetworkLib.dll
+obj\Debug\NeuralNetworkLib.pdb
+bin\Debug\MatthewsCorrelationCoefficientLib.dll
+bin\Debug\MatthewsCorrelationCoefficientLib.pdb
+bin\Debug\BinaryFileIOManager.dll
+bin\Debug\BinaryFileIOManager.pdb
